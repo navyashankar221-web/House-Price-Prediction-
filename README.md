@@ -1,2 +1,21 @@
 # House-Price-Prediction-
-Machine Learning project that predicts house prices based on features such as area, number of bedrooms, bathrooms, floor, location, and age.
+
+Project Description:
+This project predicts house prices using machine learning techniques. Python, Pandas, NumPy, Matplotlib, and Scikit-learn were used for data preprocessing, analysis, visualization, model training, and prediction.
+
+Technologies Used:
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+Jupyter Notebook
+
+Steps:
+Data collection
+Data preprocessing
+Exploratory Data Analysis
+Feature selection
+Model training
+Model evaluation
+Price prediction
